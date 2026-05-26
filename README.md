@@ -1,7 +1,12 @@
-## Name: DHASHVANTH B
-## Register no: 212224230064
-
 # Fitting Poisson  distribution
+EXP NO : 2
+
+DATE : 27/04/2026
+
+NAME : Dhashvanth B
+
+REG NO : 212224230064
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -69,11 +74,13 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
+
  
 
 # Output : 
+<img width="792" height="452" alt="image" src="https://github.com/user-attachments/assets/08be5ccf-bed6-49b7-9508-fc9b69d865a3" />
 
-<img width="734" height="341" alt="image" src="https://github.com/user-attachments/assets/fdd7a1fa-0ad9-47d8-a2cb-d887b39e30e9" />
+
 
 # Results
 
